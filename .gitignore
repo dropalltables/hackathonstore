@@ -5,3 +5,7 @@ node_modules
 !.env.example
 .DS_Store
 .idea
+items.json
+items_cache.json
+subscriptions.json
+orders.json
